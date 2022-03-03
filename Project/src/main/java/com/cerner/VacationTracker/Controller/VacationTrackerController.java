@@ -1,4 +1,4 @@
-package com.cerner.VacationTracker.Controller;
+package com.VacationTracker.Controller;
 import org.springframework.http.ResponseEntity;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,9 +14,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 
-import com.cerner.VacationTracker.Entity.Associate;
-import com.cerner.VacationTracker.Entity.Vacation;
-import com.cerner.VacationTracker.Service.VacationTrackerService;
+import com.VacationTracker.Entity.Associate;
+import com.VacationTracker.Entity.Vacation;
+import com.VacationTracker.Service.VacationTrackerService;
 
 /**
  * 
