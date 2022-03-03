@@ -1,4 +1,4 @@
-package com.cerner.VacationTracker.Dao;
+package com.VacationTracker.Dao;
 import org.springframework.data.repository.CrudRepository;
 
 /**
@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
  */
 import org.springframework.stereotype.Repository;
 
-import com.cerner.VacationTracker.Entity.Associate;
+import com.VacationTracker.Entity.Associate;
 @Repository
 public interface AssociateRepository extends CrudRepository<Associate,String>{
 	
