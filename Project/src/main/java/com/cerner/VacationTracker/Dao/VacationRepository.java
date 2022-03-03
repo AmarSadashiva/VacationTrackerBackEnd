@@ -1,4 +1,4 @@
-package com.VacationTracker.Dao;
+package com.cerner.VacationTracker.Dao;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.VacationTracker.Entity.Vacation;
+import com.cerner.VacationTracker.Entity.Vacation;
 
 /**
  * VacationRepository provides a CRUD interface for Vacation entity
