@@ -1,4 +1,4 @@
-package com.cerner.VacationTracker.Dao;
+package com.VacationTracker.Dao;
 
 import java.util.List;
 
