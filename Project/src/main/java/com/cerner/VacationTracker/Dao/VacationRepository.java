@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.cerner.VacationTracker.Entity.Vacation;
+import com.VacationTracker.Entity.Vacation;
 
 /**
  * VacationRepository provides a CRUD interface for Vacation entity
